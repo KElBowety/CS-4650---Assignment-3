@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<scene>
+  <item prefab="Crate Stack" pX="5" pY="0" pZ="5" rY="45" bullet="true" buildMesh="2"/>
+  <item prefab="Crate Stack" pX="-5" pY="0" pZ="5" rY="45" bullet="true" buildMesh="2"/>
+  <item prefab="Crate Stack" pX="5" pZ="-5" rY="45" bullet="true" buildMesh="2"/>
+  <item prefab="Crate Stack" pX="-5" pZ="-5" rY="45" bullet="true" buildMesh="2"/>
+  <item prefab="Ammo" pX="-2" pY="1" pZ="3" bullet="true" buildMesh="1"/>
+  <item prefab="Ammo" pX="2" pY="1" pZ="3" bullet="true" buildMesh="1"/>
+  <item prefab="Ammo" pX="-2" pY="1" pZ="-3" bullet="true" buildMesh="1"/>
+  <item prefab="Ammo" pX="2" pY="1" pZ="3" bullet="true" buildMesh="1"/>  
+  <item prefab="Ammo" pX="3" pY="1" pZ="3.5" bullet="true" buildMesh="1"/>
+  <item prefab="Ammo" pX="3" pY="1" pZ="-2.5" bullet="true" buildMesh="1"/>
+
+</scene>
