@@ -10,5 +10,5 @@
   <item prefab="Ammo" pX="2" pY="1" pZ="3" bullet="true" buildMesh="1"/>  
   <item prefab="Ammo" pX="3" pY="1" pZ="3.5" bullet="true" buildMesh="1"/>
   <item prefab="Ammo" pX="3" pY="1" pZ="-2.5" bullet="true" buildMesh="1"/>
-
+  <item prefab="Ammo" pX="-3.5" pY="1" pZ="-3.5" bullet="true" buildMesh="1"/>
 </scene>
